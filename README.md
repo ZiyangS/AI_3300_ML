@@ -1,2 +1,3 @@
-# AI_3300_ML
-# AI_3300_ML
+2026 Spring AI 3300 Statistical Learning
+
+Instructor: Ziyang Song, Assistant Professor of EECS at Ohio University
